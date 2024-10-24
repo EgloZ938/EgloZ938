@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est **Théo** (EgloZ938) !
+# 👋 Salut, moi c'est **Théo** (EgloZ) !
 
 Je suis **Développeur Web** en 3ème année d'études. Passionné par la création d'expériences web à la fois fonctionnelles et esthétiques, j'aime travailler sur des projets variés qui me permettent de développer mes compétences et d'évoluer en tant que développeur.
 
