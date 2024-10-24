@@ -13,22 +13,22 @@ Vous pouvez explorer mes principaux projets ici sur GitHub, allant d'initiatives
 ## ⚡ **Compétences & Outils :**
 
 ### 🌐 **Technologies Web :**
-- **HTML5**, **CSS3**, **JavaScript** (ES6+), **Sass**
+- HTML5, CSS3, JavaScript (ES6+), Sass
 
 ### 📦 **Frameworks & Librairies :**
-- **React**, **Node.js**, **Laravel**, **Ruby on Rails**, **Django**, **Flask**
+- React, Node.js, Laravel, Ruby on Rails, Django, Flask
 
 ### 💻 **Langages de programmation :**
-- **Python**, **PHP**, **C**, **C#**
+- Python, PHP, C, C#
 
 ### 🛢️ **Bases de données :**
-- **MySQL**, **SQLite**, **MongoDB**
+- MySQL, SQLite, MongoDB
 
 ### 🔧 **Outils & Environnements :**
-- **Git**, **Ubuntu**, **Bash**, **SSH**
+- Git, Ubuntu, Bash, SSH
 
 ### 🎮 **Autres :**
-- **Unreal Engine 5**, **Unity**, **Three.js**, **Markdown**
+- Unreal Engine 5, Unity, Three.js, Markdown
 
 
 ## 🔭 **En ce moment, je travaille sur :**
