@@ -11,9 +11,25 @@ Je suis **Développeur Web** en 3ème année d'études. Passionné par la créat
 Vous pouvez explorer mes principaux projets ici sur GitHub, allant d'initiatives personnelles à des collaborations. Vous y trouverez des applications web, des tutoriels, et des outils que j'ai développés avec différents frameworks et langages.
 
 ## ⚡ **Compétences & Outils :**
-- **Langages** : HTML, CSS, JavaScript, PHP, Python
-- **Frameworks** : Flask, Symfony, Rails
-- **Outils** : GitHub, Docker, MySQL, Three.js
+
+### 🌐 **Technologies Web :**
+- **HTML5**, **CSS3**, **JavaScript** (ES6+), **Sass**
+
+### 📦 **Frameworks & Librairies :**
+- **React**, **Node.js**, **Laravel**, **Ruby on Rails**, **Django**, **Flask**
+
+### 💻 **Langages de programmation :**
+- **Python**, **PHP**, **C**, **C#**
+
+### 🛢️ **Bases de données :**
+- **MySQL**, **SQLite**, **MongoDB**
+
+### 🔧 **Outils & Environnements :**
+- **Git**, **Ubuntu**, **Bash**, **SSH**
+
+### 🎮 **Autres :**
+- **Unreal Engine 5**, **Unity**, **Three.js**, **Markdown**
+
 
 ## 🔭 **En ce moment, je travaille sur :**
 - Améliorer mes compétences avec **Unreal Engine 5**
