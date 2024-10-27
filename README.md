@@ -36,4 +36,4 @@ Vous pouvez explorer mes principaux projets ici sur GitHub, allant d'initiatives
 - Développer mon propre projet de jeu 🎮
 - Construire des applications web sécurisées
 
-Si vous êtes intéressé(e) pour en savoir plus sur moi et mes projets, vous pouvez consulter mon portfolio ici : [Portfolio](https://egloz.com/portfolio-homepage.html).
+Si vous êtes intéressé(e) pour en savoir plus sur moi et mes projets, vous pouvez consulter mon portfolio ici : [Portfolio](https://egloz.com/).
