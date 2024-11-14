@@ -28,7 +28,7 @@ Vous pouvez explorer mes principaux projets ici sur GitHub, allant d'initiatives
 - Git, Ubuntu, Bash, SSH
 
 ### 🎮 **Autres :**
-- Unreal Engine 5, Unity, Three.js, Markdown
+- Unreal Engine 5, Unity, Three.js, Markdown, RPG Maker XP
 
 
 ## 🔭 **En ce moment, je travaille sur :**
@@ -36,4 +36,4 @@ Vous pouvez explorer mes principaux projets ici sur GitHub, allant d'initiatives
 - Développer mon propre projet de jeu 🎮
 - Construire des applications web sécurisées
 
-Si vous êtes intéressé(e) pour en savoir plus sur moi et mes projets, vous pouvez consulter mon portfolio ici : [Portfolio](https://egloz.com/).
+Si vous êtes intéressé(e) pour en savoir plus sur moi et mes projets, vous pouvez consulter mon portfolio ici : [Portfolio](https://egloz.com/) ( pas encore finis ).
