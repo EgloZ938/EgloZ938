@@ -37,24 +37,6 @@ Développeur web passionné, actuellement en 3ème année d'études. Spécialis�
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgloZ938&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 🔥 Projets Remarquables
-
-### [Portfolio Personnel](https://github.com/EgloZ938/portfolio)
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Aperçu du Portfolio" width="600" />
-</p>
-
-Site web personnel présentant mes projets et compétences, développé avec React et styled-components.
-
-### [Application Météo](https://github.com/EgloZ938/weather-app)
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Aperçu de l'application météo" width="600" />
-</p>
-
-Application météo interactive utilisant l'API OpenWeatherMap, créée avec JavaScript vanilla et CSS moderne.
-
 ## 📈 Contributions
 
 <p align="center">
