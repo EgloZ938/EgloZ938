@@ -42,12 +42,6 @@ Développeur web passionné, actuellement en 3ème année d'études. Spécialis�
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgloZ938&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 📈 Contributions
-
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=EgloZ938" alt="Contribution Stats" />
-</p>
-
 ## 🌱 Actuellement en apprentissage
 
 - Intelligence Artificielle appliquée au développement web
