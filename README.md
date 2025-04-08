@@ -79,7 +79,7 @@ Développeur web passionné, actuellement en 3ème année d'études. Spécialis�
 ## ⚡ Faits intéressants
 
 - Passionné de boxe anglaise, j'applique la même discipline et détermination dans mon code
-- Gamer invétéré, j'aime analyser les mécaniques de jeu et leur UX pour m'en inspirer
+- J'apprécie les jeux vidéos et j'aime particulièrement l'aspect compétitif qu'ils offrent.
 - Je code des projets personnels pendant mon temps libre pour explorer de nouvelles technologies
 
 ## 📫 Comment me joindre
