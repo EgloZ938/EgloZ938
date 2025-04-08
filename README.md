@@ -6,7 +6,7 @@
 
 ## 🚀 À propos de moi
 
-Développeur web passionné, actuellement en 3ème année d'études. Spécialisé en développement fullstack avec un intérêt particulier pour l'intelligence artificielle. Je suis constamment à la recherche de nouveaux défis pour élargir mes compétences et créer des solutions innovantes.
+Développeur web passionné, actuellement en 3ème année d'études. Spécialisé en développement fullstack avec un intérêt particulier pour l'intelligence artificielle et le Green IT. Je suis constamment à la recherche de nouveaux défis pour élargir mes compétences et créer des solutions innovantes.
 
 > "Le code est comme l'humour. Quand on doit l'expliquer, c'est mauvais." – Cory House
 
@@ -39,42 +39,33 @@ Développeur web passionné, actuellement en 3ème année d'études. Spécialis�
 
 ## 🔥 Projets Remarquables
 
-### [Projet Green IT](https://github.com/EgloZ938/green-it-project)
+### [Portfolio Personnel](https://github.com/EgloZ938/portfolio)
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Aperçu du Projet Green IT" width="600" />
+  <img src="https://via.placeholder.com/600x300" alt="Aperçu du Portfolio" width="600" />
 </p>
 
-Description du projet : Une application web éco-responsable axée sur la réduction de l'empreinte carbone numérique. Développée avec React, Node.js et des pratiques d'optimisation pour minimiser la consommation de ressources.
+Site web personnel présentant mes projets et compétences, développé avec React et styled-components.
 
-### [Intégration Salesforce](https://github.com/EgloZ938/salesforce-integration)
+### [Application Météo](https://github.com/EgloZ938/weather-app)
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Aperçu du Projet Salesforce" width="600" />
+  <img src="https://via.placeholder.com/600x300" alt="Aperçu de l'application météo" width="600" />
 </p>
 
-Description du projet : Solution d'intégration pour Salesforce qui améliore l'expérience utilisateur et automatise les processus métier. Créée en utilisant Apex, Lightning Web Components et les API Salesforce.
+Application météo interactive utilisant l'API OpenWeatherMap, créée avec JavaScript vanilla et CSS moderne.
 
 ## 📈 Contributions
 
-```
-                         █                                                                 
-                       █████                                                           
-                  █     ███                                                            
-     █████       ███    ███     █████                                                  
-    ███████     █████   ███    ███████                ██████     █████     █████████   
-   ████  ████  ███████  ███   ████  ████            ███████████  ███████   ████  ████  
-  ████    ████████ ████████  ████    ████          ████     ████████ ████ ████   ████ 
- █████    ███████   ███████ █████    █████         ████     ████████  ████████        
- ████      █████     █████  ████      ████          ███████████ ████   ███████  █████ 
-█████      █████     █████ █████      █████          █████████  ████    ██████████    
-```
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=EgloZ938" alt="Contribution Stats" />
+</p>
 
 ## 🌱 Actuellement en apprentissage
 
 - Intelligence Artificielle appliquée au développement web
 - Technologies Salesforce (Apex, Lightning Web Components)
-- Pratiques de développement Green IT et éco-conception
+- Développement d'applications React avancées
 
 ## 💼 Expérience Professionnelle
 
@@ -83,9 +74,9 @@ Description du projet : Solution d'intégration pour Salesforce qui améliore l'
   - Création de composants Lightning et automatisation des processus
   - Technologies utilisées : Salesforce, Apex, Lightning Web Components, JavaScript
 
-- **Everthel Consulting** - _Développeur Green IT_ (Précédemment)
-  - Conception et développement d'applications web éco-responsables
-  - Optimisation des performances et réduction de l'empreinte carbone
+- **Everthel Consulting** - _Développeur Web_ (Précédemment)
+  - Conception et développement d'applications web
+  - Optimisation des performances et de l'expérience utilisateur
   - Technologies utilisées : HTML/CSS, JavaScript, React, Node.js
 
 ## 🎓 Formation
@@ -96,8 +87,7 @@ Description du projet : Solution d'intégration pour Salesforce qui améliore l'
 ## 🌐 Langues
 
 - Français (Natif)
-- Anglais (Professionnel)
-- [Autre langue] (Niveau)
+- Anglais (Intermédiaire)
 
 ## ⚡ Faits intéressants
 
