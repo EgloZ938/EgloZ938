@@ -33,9 +33,6 @@ Développeur web passionné, actuellement en 3ème année d'études. Spécialis�
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EgloZ938&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgloZ938&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
