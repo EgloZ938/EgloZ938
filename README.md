@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Théo EVON (EgloZ)
+# 👋 Bonjour, je suis Théo (EgloZ)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://theo-evon.fr)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A9o-evon-825317324/)
