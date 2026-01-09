@@ -30,12 +30,6 @@ Développeur web passionné, actuellement en 3ème année d'études. Spécialis�
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
 </p>
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgloZ938&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ## 🌱 Actuellement en apprentissage
 
 - Intelligence Artificielle appliquée au développement web
